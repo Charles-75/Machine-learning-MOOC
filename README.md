@@ -1,6 +1,8 @@
 # Machine learning MOOC from Stanford university 
 
-The description of the whole MOOC can be found here : https://www.coursera.org/learn/machine-learning.
+The description of the whole MOOC can be found here : https://www.coursera.org/learn/machine-learning.  
+
+The programming language that I used to complete those pratical exercices is Octave (language quite similar to Matlab with a lot of features in common). 
 
 # Topics completed 
 
