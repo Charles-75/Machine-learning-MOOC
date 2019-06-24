@@ -15,4 +15,4 @@ The programming language that I used to complete those pratical exercices is Oct
 *  Week 7 : SVM (Support Vector Machines)  
 *  Week 8 : Unsupervised learning, K-means clustering, PCA  
 *  Week 9 : Anomaly detection, multivariate Gaussian distribution, recommender systems (movie recommandation system, collaborative filtering)  
-*  Week 10 : Large scale machine learning, gradient descent with large datasets
+*  Week 10 : Large scale machine learning, gradient descent with large datasets (batch, mini-batch, stochastic)
